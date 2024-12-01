@@ -3,7 +3,7 @@
 // @namespace    https://github.com/zimmra/zyn-rewards-autosubmit
 // @version      0.3
 // @description  Automatically clicks a specific button on the Zyn site for rewards submission.
-// @author       Payton Zimmerer (Zimmra)
+// @author       zimmra
 // @match        https://us.zyn.com/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/zimmra/zyn-rewards-autosubmit/main/zyn-rewards-auto-submit.user.js
