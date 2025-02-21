@@ -4,6 +4,7 @@
 // @version      0.4
 // @description  Automatically clicks a specific button on the Zyn site for rewards submission.
 // @author       zimmra
+// @license      MIT
 // @match        https://us.zyn.com/ZYNRewards/?serialNumber=*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/zimmra/zyn-rewards-autosubmit/main/zyn-rewards-auto-submit.user.js
