@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Zyn Rewards Auto Submit
 // @namespace    https://github.com/zimmra/zyn-rewards-autosubmit
-// @version      0.4
+// @version      0.5
 // @description  Automatically clicks a specific button on the Zyn site for rewards submission.
 // @author       zimmra
 // @license      MIT
 // @match        https://us.zyn.com/ZYNRewards/?serialNumber=*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zimmra/zyn-rewards-autosubmit/main/zyn-rewards-auto-submit.user.js
-// @downloadURL  https://raw.githubusercontent.com/zimmra/zyn-rewards-autosubmit/main/zyn-rewards-auto-submit.user.js
+// @updateURL    https://github.com/zimmra/zyn-rewards-autosubmit/raw/refs/heads/main/zyn-rewards-autosubmit.user.js
+// @downloadURL  https://github.com/zimmra/zyn-rewards-autosubmit/raw/refs/heads/main/zyn-rewards-autosubmit.user.js
 // ==/UserScript==
 
 (function() {
